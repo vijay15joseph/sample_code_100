@@ -6,7 +6,7 @@ Steps:
 1) Setup Transfer Service to download from S3 to Cloud storage
 2) Setup Airflow/Cloud Composer Environment.
 3) Copy the scripts(pg_bq_load.py,pg_unzip.sh and pg_loadBQ.sh ) to the <cloudstorage_bucket>/dags/scripts
-4)Go to Airflow and trigger the
+4)Go to Airflow and trigger the job
 
 
 References:
